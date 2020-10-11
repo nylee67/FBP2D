@@ -1,0 +1,12 @@
+# Readme.1st
+
+% 	Directories - 0_Recon2D
+		.							0_*.c, *.make, *.batch, *.odt
+		../FBP2D_ParaBeam2D			*.c
+		../1_CHeader				*.h
+		../1_CLib/IO				*.c	
+		../1_CLib/FFT				*.c
+		../1_CLib/Misc				*.c
+		/WorkDrive/2_Phantom		*.pht3d
+		/WorkDrive/2_Sinogram		*.Sinogram
+		/WorkDrive/3_Output			*.pgm, *.FBP
